@@ -1,16 +1,13 @@
 ---
-name: Tails Azimuth
+name: Open Coders
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+occupation: Comunidad abierta
+email: info.cbasdev@gmail.com
+twitter: https://twitter.com/cbasdev
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/open-coders-org
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Somos una comunidad de aprendizaje colaborativo orientada al codigo abierto y las tendencias de tecnología.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Eu aliquip esse duis dolore. Sunt officia et excepteur sunt fugiat. Magna nostrud dolor nostrud enim sint dolore ullamco consequat tempor. Aliquip ex fugiat non velit eu labore nostrud cupidatat proident fugiat. Laboris nostrud deserunt amet aliquip proident.

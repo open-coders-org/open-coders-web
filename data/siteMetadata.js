@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Open Coders | La comunidad de aprendizaje continuo y colaborativo.',
+  author: 'Sebastian Velez',
+  headerTitle: 'Open Coders',
+  description: 'La comunidad de aprendizaje continuo y colaborativo.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
